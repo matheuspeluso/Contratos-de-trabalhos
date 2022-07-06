@@ -1,0 +1,15 @@
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 9\exercicio resolvido 1\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.exe
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 9\exercicio resolvido 1\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.deps.json
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 9\exercicio resolvido 1\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.runtimeconfig.json
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 9\exercicio resolvido 1\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.dll
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 9\exercicio resolvido 1\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.pdb
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 9\exercicio resolvido 1\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.csproj.AssemblyReference.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 9\exercicio resolvido 1\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 9\exercicio resolvido 1\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.AssemblyInfoInputs.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 9\exercicio resolvido 1\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.AssemblyInfo.cs
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 9\exercicio resolvido 1\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.csproj.CoreCompileInputs.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 9\exercicio resolvido 1\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.dll
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 9\exercicio resolvido 1\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\refint\PrimeiroExercicio.dll
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 9\exercicio resolvido 1\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.pdb
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 9\exercicio resolvido 1\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.genruntimeconfig.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 9\exercicio resolvido 1\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\ref\PrimeiroExercicio.dll
